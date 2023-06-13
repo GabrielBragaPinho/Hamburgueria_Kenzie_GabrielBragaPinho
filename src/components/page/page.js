@@ -14,6 +14,8 @@ overflow: scroll;
     @media (min-width: 710px){
         .container{
             flex-wrap: wrap;
+            margin-left: 9%;
+            margin-right: 8%;
         }
     }
 `

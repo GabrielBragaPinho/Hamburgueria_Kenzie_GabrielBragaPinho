@@ -98,10 +98,12 @@ export const CSSHeader = styled.header`
         left:290px;
         top:-49px;
     }
-    @media (min-width: 710px){
+  
+    @media (min-width: 890px){
         justify-content: space-between;
+
+        height:80px;
         padding-left: 10%;
         padding-right: 10%;
-        height:80px;
     }
 `
